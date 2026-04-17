@@ -1,5 +1,4 @@
 # Movie-Recommendation-System
-Hello This Is A New Project
-# This should hopefully be a title
-## Sub title
-### Sub Sub title
+
+## About
+This is a basic movie recommendation system using cosine similarity and TF-IDF as metrics to compare movies and suggest movies to the user.
